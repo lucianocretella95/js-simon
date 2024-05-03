@@ -4,7 +4,7 @@ Dopo che sono stati inseriti i 5 numeri, il software dice quanti e quali dei num
 
 MILESTONE 1
 Generate 5 numeri casuali. Può tornarvi utile una funzione? Provate a stamparli prima in console e poi in pagina.
-Ricordate che questi numeri dovrete ricontrollarli più avanti quindi non "buttateli" ma conservateli da qualche parte
+Ricordate che questi numeri dovrete ricontrollarli più avanti quindi non "buttateli" ma conservateli da qualche parte.
 
 MILESTONE 2
 Impostate un timer a 3 secondi, testatelo con un console.log. Una volta funzionante fate in modo che nasconda i numeri in pagina.
